@@ -41,7 +41,7 @@ Grade PSU : C | Note : 12.1 | No crash
 | Builtin cd-eval                       | 66.7%      | 2/3       |
 | Line formatting (space and tabs)      | 100%       | 8/8       |
 | Line formatting (space and tabs)-eval | 100%       | 8/8       |
-| Error handling                        | 33.3       | 1/3       |
+| Error handling                        | 33.3%      | 1/3       |
 | Error handling-eval                   | 33.3%      | 1/3       |
 
 
