@@ -21,6 +21,8 @@ You must implement the following builtins: cd, setenv, unsetenv, env, exit.
 
 Your env builtin hasn’t to take any argument. Your unsetenv builtin hasn’t to support the “*” wildcard.
 
+Read the subject for more details and examples.
+
 Good luck.
 
 ========================
